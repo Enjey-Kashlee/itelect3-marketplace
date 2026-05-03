@@ -1,0 +1,172 @@
+[
+    {
+        "id": 0,
+        "title": "Jujutsu Kaisen, Vol. 1",
+        "author": "Gege Akutami",
+        "price": 550,
+        "currency": "PHP",
+        "condition": "Brand New",
+        "seller": "OtakuCart PH",
+        "location": "Lipa City, Batangas",
+        "genres": [
+            "Action",
+            "Dark Fantasy",
+            "Shonen"
+        ],
+        "isAvailable": true,
+        "stock": 12
+    },
+    {
+        "id": 1,
+        "title": "Chainsaw Man, Vol. 1",
+        "author": "Tatsuki Fujimoto",
+        "price": 450,
+        "currency": "PHP",
+        "condition": "Used - Like New",
+        "seller": "MangaBites",
+        "location": "Quezon City, Metro Manila",
+        "genres": [
+            "Action",
+            "Horror",
+            "Comedy"
+        ],
+        "isAvailable": true,
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "title": "Spy x Family, Vol. 4",
+        "author": "Tatsuya Endo",
+        "price": 500,
+        "currency": "PHP",
+        "condition": "Brand New",
+        "seller": "Pages & Panels",
+        "location": "Cebu City, Cebu",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Spy Fiction"
+        ],
+        "isAvailable": true,
+        "stock": 8
+    },
+    {
+        "id": 3,
+        "title": "Berserk Deluxe Edition, Vol. 1",
+        "author": "Kentaro Miura",
+        "price": 2800,
+        "currency": "PHP",
+        "condition": "Used - Good",
+        "seller": "Collector's Vault",
+        "location": "Lipa City, Batangas",
+        "genres": [
+            "Dark Fantasy",
+            "Epic",
+            "Seinen"
+        ],
+        "isAvailable": false,
+        "stock": 0
+    },
+    {
+        "id": 4,
+        "title": "One Piece, Vol. 100",
+        "author": "Eiichiro Oda",
+        "price": 480,
+        "currency": "PHP",
+        "condition": "Brand New",
+        "seller": "Grand Line Wares",
+        "location": "Davao City, Davao del Sur",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Shonen"
+        ],
+        "isAvailable": true,
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "title": "Haikyu!!, Vol. 1",
+        "author": "Haruichi Furudate",
+        "price": 400,
+        "currency": "PHP",
+        "condition": "Used - Acceptable",
+        "seller": "Kash Manga Finds",
+        "location": "DLSL Area, Lipa City",
+        "genres": [
+            "Sports",
+            "Comedy",
+            "Coming-of-Age"
+        ],
+        "isAvailable": true,
+        "stock": 1
+    },
+    {
+        "id": 6,
+        "title": "Demon Slayer, Vol. 8",
+        "author": "Koyoharu Gotouge",
+        "price": 520,
+        "currency": "PHP",
+        "condition": "Brand New",
+        "seller": "Kimetsu Collectibles",
+        "location": "Makati City, Metro Manila",
+        "genres": [
+            "Action",
+            "Historical Fantasy",
+            "Martial Arts"
+        ],
+        "isAvailable": true,
+        "stock": 15
+    },
+    {
+        "id": 7,
+        "title": "Vagabond, Vizbig Edition Vol. 1",
+        "author": "Takehiko Inoue",
+        "price": 1200,
+        "currency": "PHP",
+        "condition": "Used - Like New",
+        "seller": "Ronin Reads",
+        "location": "Baguio City, Benguet",
+        "genres": [
+            "Historical",
+            "Martial Arts",
+            "Seinen"
+        ],
+        "isAvailable": true,
+        "stock": 2
+    },
+    {
+        "id": 8,
+        "title": "Death Note, Black Edition Vol. 1",
+        "author": "Tsugumi Ohba",
+        "price": 850,
+        "currency": "PHP",
+        "condition": "Brand New",
+        "seller": "Shinigami Shop",
+        "location": "Lipa City, Batangas",
+        "genres": [
+            "Psychological Thriller",
+            "Mystery",
+            "Supernatural"
+        ],
+        "isAvailable": true,
+        "stock": 6
+    },
+    {
+        "id": 9,
+        "title": "Solo Leveling, Vol. 1 (Comic)",
+        "author": "Chugong",
+        "price": 950,
+        "currency": "PHP",
+        "condition": "Brand New",
+        "seller": "Hunters Guild PH",
+        "location": "Iloilo City, Iloilo",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Webtoon"
+        ],
+        "isAvailable": true,
+        "stock": 10
+    }
+]
